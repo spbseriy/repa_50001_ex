@@ -37,4 +37,13 @@ print(c)
 if условие проверки:
   print("")
 
+#task 3 
 
+n = 0b1101
+m = 0b101
+
+k = n + m
+
+print(bin(k))
+print(k)
+print(hex(k))
