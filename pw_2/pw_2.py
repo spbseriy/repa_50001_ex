@@ -7,18 +7,34 @@ Original file is located at
     https://colab.research.google.com/drive/1ty_bqqF8jOZnHsSuZojYIoBaVT_GVGae
 """
 
-a = 1202
-print(a)
-print(bin(a))
-print(oct(a))
-print(hex(a))
+a_1 = 1202
+print(a_1)
+print(bin(a_1))
+print(oct(a_1))
+print(hex(a_1))
 
 
 
 
 #task 1
-b = 45
+b_2 = 45
 
-print(bin(b))
-print(oct(b))
-print(hex(b))
+print(bin(b_2))
+print(oct(b_2))
+print(hex(b_2))
+
+
+
+#task 2
+a = 0b1010
+b = 0o12
+c = 0xA
+
+print(a)
+print(b)
+print(c)
+
+if условие проверки:
+  print("")
+
+
